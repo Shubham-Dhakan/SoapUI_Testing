@@ -1,0 +1,6 @@
+What is SOAP? 
+------------------>
+
+SOAP -> Simple Object Access Protocol 
+SOAP is a protocol for sending and receiving messages between applications without confronting interoperability issue. 
+Underlying language used by SOAP is XML. 
